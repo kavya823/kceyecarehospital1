@@ -1,0 +1,17 @@
+node_modules
+.env
+dist
+dist-ssr
+.vscode
+.idea
+.DS_Store
+.gemini
+.agents
+.windsurf
+.claude
+skills-lock.json
+node_modules/
+dist/
+.env
+.env.local
+.env.*.local
